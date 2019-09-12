@@ -1,0 +1,6 @@
+Gul 308
+Blå: 207
+Hvit 611
+Rød: 5
+Sort: 1318
+Grønn: 106 
